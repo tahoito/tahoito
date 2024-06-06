@@ -1,4 +1,6 @@
 - Hello. My name is Taho.
+- I'm from Japan.
+- I'm a student.
 - I want to live abroad and become a programmer in the future.🫶🏼
 - I learned python3,　SQL,　HTML/CSS,　Flask,　Django.
 - I like listening to music, especially kpop and English songs.🎧
