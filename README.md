@@ -6,8 +6,9 @@
 - I will learn React, PHP, Next.js, and Flutter this year.
 
 
-![tahoito's GitHub stats](https://github-readme-stats.vercel.app/api?username=taho&show_icons=true&theme=tokyonight
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taho&layout=compact&theme=tokyonight)
+![tahoito's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahoito&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahoito&layout=compact&theme=tokyonight)
+
 
 
 <!---
