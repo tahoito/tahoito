@@ -12,6 +12,12 @@ My name is Taho.
 ![tahoito's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahoito&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahoito&layout=compact&theme=tokyonight)
 
+<h2>My Skills🍀</h2>  
+#🛠️ Skills I Use  
+<img src="https://skillicons.dev/icons?i=python,mysql,figma,flask,django,java,spring,javascript&theme=light" />
+
+#✏️ Skills I'm Learning  
+<img src="https://skillicons.dev/icons?i=php,flutter,dart&theme=light" />
 
 
 <!---
