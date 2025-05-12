@@ -1,6 +1,6 @@
 - Hello. My name is Taho.
 - I'm from Japan.
-- I'm a 2nd grades of high school student.
+- I'm a 3rd grades of high school student.
 - I want to live abroad and become a programmer in the future.🫶🏼
 - I learned python3,　SQL,　HTML/CSS,　Flask,　Django, Java, JavaScript, and a little SpringBoost.
 
