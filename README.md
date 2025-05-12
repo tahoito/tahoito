@@ -1,4 +1,5 @@
-- Hello. My name is Taho.
+Hello. My name is Taho.
+
 - I'm from Nagoya, Japan.
 - I'm a 3rd grades of high school student.
 - I want to live abroad and become a programmer in the future.
