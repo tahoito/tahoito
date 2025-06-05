@@ -6,7 +6,7 @@ My name is Taho.
 - I'm a 3rd-year high school student.  
 - I want to live abroad and become a programmer in the future.  
 - I have learned Python 3, SQL, HTML/CSS, Flask, Django, Java, JavaScript, and Spring Boot.  
-- I'm planning to learn React, PHP, Next.js, and Flutter this year.  
+- I'm planning to learn React.js , PHP, Next.js, and Flutter this year.  
 
 ---
 
