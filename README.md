@@ -5,8 +5,7 @@ My name is Taho.
 - I'm from Nagoya, Japan.  
 - I'm a 3rd-year high school student.  
 - I want to live abroad and become a programmer in the future.  
-- I have learned Python 3, SQL, HTML/CSS, Flask, Django, Java, JavaScript, and Spring Boot.  
-- I'm planning to learn React.js , PHP, Next.js, and Flutter this year.  
+- I like to learn new programming languages, and make an application. 
 
 ---
 
@@ -17,14 +16,26 @@ My name is Taho.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahoito&theme=tokyonight)
 
 ---
+<h2>My Skills 🍀</h2>
 
-<h2>My Skills🍀</h2>
+## 🖥️ Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,dart,typescript&theme=light" />
 
-## 🛠️ Skills I Use  
-<img src="https://skillicons.dev/icons?i=python,mysql,figma,flask,django,java,spring,javascript&theme=light" />
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,next&theme=light" />
 
-## ✏️ Skills I'm Learning  
-<img src="https://skillicons.dev/icons?i=php,flutter,dart,react,next&theme=light" />
+## ⚙️ Backend / Frameworks
+<img src="https://skillicons.dev/icons?i=flask,django,spring,laravel&theme=light" />
+
+## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+
+## 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter&theme=light" />
+
+## 🎨 Tools & Design
+<img src="https://skillicons.dev/icons?i=figma&theme=light" />
+
 
 ---
 
