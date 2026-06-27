@@ -3,7 +3,7 @@
 My name is Taho.
 
 - I'm from Nagoya, Japan.  
-- I'm a 3rd-year high school student.  
+- I'm a university student in Malaysia.
 - I want to live abroad and become a programmer in the future.  
 - I like to learn new programming languages, and make an application. 
 
